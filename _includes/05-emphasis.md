@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+In high school, I am currently learning **python** but *OOP* is pretty difficult to grasp. I would like to become a **engineer** in *cybersecurity* or *systems*, but it doesn't mean I don't like others part of IT and computers, _I like them **all** !_
